@@ -3,8 +3,8 @@ Cours de docker de M2 Admin Sys
 
 
 Notes personnelles :
-ntroduction a Docker :
-Conteneur, virtualisation sans OS, augmentation des capacités récursivement, rendre les applications élastiques pouvant accumuler de la charge et être augmentés en capacités
+Introduction a Docker :
+Il s'agit de gérer des conteneur, virtualisation sans OS, augmentation des capacités récursivement, rendre les applications élastiques pouvant accumuler de la charge et être augmentés en capacités
 
 Autant dev que ops
 SysOps GitOps, automatisations de tache DevOps, automatisation de l’infrastructure (Infrastructure as code IaaC)
