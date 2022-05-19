@@ -1,0 +1,8 @@
+  secretGenerator:
+    - name: mysql-pass
+      literals:
+      - password=itescia
+
+  resources:
+    - mysql-deployment.yaml
+    - wordpress-deployment.yaml
